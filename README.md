@@ -1,4 +1,4 @@
-**NYC to Des Moines Bike sharing**
+**NYC to Des Moines Bike sharing** [link to dashboard](https://public.tableau.com/app/profile/christopher.j.swan)
 
 The below data is to help Kate pitch the idea of a bike sharing program in Des Moines. We will be using data from NYC’s Citi bikes bike sharing program. We will present our finding using Tableau and seven data points that will help show that this program can be successful outside of NYC 
 
