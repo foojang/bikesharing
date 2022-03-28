@@ -29,3 +29,5 @@ The most common users of the ride share program is subscribers. Sign up incentiv
 We also need to consider repair times and when bikes need to be down. The best for maintenance is after 2 am and before 6 am. This will reduce how many bikes are out of service during peak times. 
 
 ![image](https://user-images.githubusercontent.com/95973377/160503111-fa0d054f-4f09-4b8a-876c-4f99f6965e7c.png)
+
+Two additional data points I would like to see is tourist vs resident for using the bikes. The majority of users or subscribers but how many only signed up for a week while they were in NYC on a trip. This could affect usage in Des Moines. The second data point I would like to see is the maintenance cost of each bike vs the life of the bike. How durable is each bike and how often would we need to replace each bike.
